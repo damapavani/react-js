@@ -1,0 +1,13 @@
+.container{
+    background-color: skyblue;
+    margin-left: 15px;
+    padding:5px;
+    color:plum;
+    box-shadow: 0px 1px 15px skyblue  ;
+    width:50%;
+    margin-top: 15px;
+    justify-content: center;
+}
+.main{
+    color:orchid;
+}
